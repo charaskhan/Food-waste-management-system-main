@@ -1,4 +1,4 @@
-# food-waste-management-system-main
+# Food-waste-management-system-main
 
 
 The core concept behind the Food Donation Management System is to gather excess or leftover food from donors like hotels, restaurants, and event venues, and redistribute it to those in need.
