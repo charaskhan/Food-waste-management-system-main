@@ -27,7 +27,5 @@ The Food Donation Management System efficiently manages excess food, ensuring it
 - Chatbot support
 - Secure login
 
-## How to Run the Project
-1. Download the project ZIP file
 
 
