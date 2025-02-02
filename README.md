@@ -29,9 +29,5 @@ The Food Donation Management System efficiently manages excess food, ensuring it
 
 ## How to Run the Project
 1. Download the project ZIP file
-2. Extract the file and copy the folder
-3. Paste it inside the root directory (e.g., for XAMPP `xampp/htdocs`, for WAMP `wamp/www`, for LAMP `var/www/Html`)
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-5. Create a database
-6. Import the `demo.sql` file (inside the database folder)
-7. Run the script by visiting http://localhost/folderName
+
+
